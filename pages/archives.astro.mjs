@@ -1,10 +1,10 @@
 import { b as createAstro, c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../chunks/astro/server_DgUwLs34.mjs';
 import 'piccolore';
-import { g as getCollection } from '../chunks/_astro_content_n3_I4Cv7.mjs';
+import { g as getCollection } from '../chunks/_astro_content_DgyK90qT.mjs';
 import { $ as $$Main } from '../chunks/Main_B65JzjVy.mjs';
-import { $ as $$Layout, a as $$Header, c as $$Footer } from '../chunks/Footer_DDNCrdRH.mjs';
-import { $ as $$Card } from '../chunks/Card_DXP-iP3Q.mjs';
-import { S as SITE } from '../chunks/config_BsBIztAW.mjs';
+import { $ as $$Layout, a as $$Header, c as $$Footer } from '../chunks/Footer_BZNPgTpS.mjs';
+import { $ as $$Card } from '../chunks/Card_gDBbKQ3A.mjs';
+import { S as SITE } from '../chunks/config_f57_clwN.mjs';
 export { renderers } from '../renderers.mjs';
 
 const getPostsByGroupCondition = (posts, groupFunction) => {
@@ -59,7 +59,7 @@ const $$Index = createComponent(async ($$result, $$props, $$slots) => {
 }, "D:/01_\u5DE5\u4F5C\u9879\u76EE/Git\u9879\u76EE/JiaoHuaSong-magazine/src/pages/archives/index.astro", void 0);
 
 const $$file = "D:/01_工作项目/Git项目/JiaoHuaSong-magazine/src/pages/archives/index.astro";
-const $$url = "/archives";
+const $$url = "/archives.html";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   __proto__: null,

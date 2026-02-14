@@ -1,7 +1,7 @@
 import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../chunks/astro/server_DgUwLs34.mjs';
 import 'piccolore';
-import { $ as $$Layout, a as $$Header, b as $$LinkButton, c as $$Footer } from '../chunks/Footer_DDNCrdRH.mjs';
-import { S as SITE } from '../chunks/config_BsBIztAW.mjs';
+import { $ as $$Layout, a as $$Header, b as $$LinkButton, c as $$Footer } from '../chunks/Footer_BZNPgTpS.mjs';
+import { S as SITE } from '../chunks/config_f57_clwN.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$404 = createComponent(($$result, $$props, $$slots) => {
@@ -11,7 +11,7 @@ Go back home
 }, "D:/01_\u5DE5\u4F5C\u9879\u76EE/Git\u9879\u76EE/JiaoHuaSong-magazine/src/pages/404.astro", void 0);
 
 const $$file = "D:/01_工作项目/Git项目/JiaoHuaSong-magazine/src/pages/404.astro";
-const $$url = "/404";
+const $$url = "/404.html";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   __proto__: null,

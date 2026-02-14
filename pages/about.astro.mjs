@@ -1,9 +1,9 @@
 import { b as createAstro, c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead, d as renderSlot, s as spreadAttributes, u as unescapeHTML } from '../chunks/astro/server_DgUwLs34.mjs';
 import 'piccolore';
-import { $ as $$Layout, a as $$Header, c as $$Footer } from '../chunks/Footer_DDNCrdRH.mjs';
+import { $ as $$Layout, a as $$Header, c as $$Footer } from '../chunks/Footer_BZNPgTpS.mjs';
 import { $ as $$Breadcrumb } from '../chunks/Breadcrumb_xFsomW-D.mjs';
-import { S as SITE } from '../chunks/config_BsBIztAW.mjs';
-import { g as getImage } from '../chunks/_astro_assets_sswGCxDV.mjs';
+import { S as SITE } from '../chunks/config_f57_clwN.mjs';
+import { g as getImage } from '../chunks/_astro_assets_CeJVmm4S.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Astro = createAstro("https://JIAOHUASONG.github.io");
@@ -72,7 +72,7 @@ const images = async function(html) {
 
 				const frontmatter = {"layout":"../layouts/AboutLayout.astro","title":"About"};
 				const file = "D:/01_工作项目/Git项目/JiaoHuaSong-magazine/src/pages/about.md";
-				const url = "/about";
+				const url = "/about.html";
 				function rawContent() {
 					return "   \n                                    \n              \n   \n\nAstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).\n\n![Astro Paper](public/astropaper-og.jpg)\n\nAstroPaper provides a solid foundation for blogs, or even portfolios\\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.\n\nThe blog posts in this theme also serve as guides, docs or example articles\\_ making AstroPaper a flexible starting point for your next content-driven site.\n\n## Features\n\nAstroPaper comes with a set of useful features that make content publishing easy and effective:\n\n- SEO-friendly\n- Fast performance\n- Light & dark mode\n- Highly customizable\n- Organizable blog posts\n- Responsive & accessible\n- Static search with [PageFind](https://pagefind.app/)\n- Automatic social image generation\n\nand so much more.\n\n## Show your support\n\nIf you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.\n\nFound a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).\n\nIf you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.\n\nKyay zuu! 🙏🏼\n";
 				}

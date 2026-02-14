@@ -1,11 +1,11 @@
 import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../chunks/astro/server_DgUwLs34.mjs';
 import 'piccolore';
-import { g as getCollection } from '../chunks/_astro_content_n3_I4Cv7.mjs';
+import { g as getCollection } from '../chunks/_astro_content_DgyK90qT.mjs';
 import { $ as $$Main } from '../chunks/Main_B65JzjVy.mjs';
-import { $ as $$Layout, a as $$Header, c as $$Footer } from '../chunks/Footer_DDNCrdRH.mjs';
-import { $ as $$Tag } from '../chunks/Tag_CQRtM79T.mjs';
-import { g as getUniqueTags } from '../chunks/getUniqueTags_CxMBM1G6.mjs';
-import { S as SITE } from '../chunks/config_BsBIztAW.mjs';
+import { $ as $$Layout, a as $$Header, c as $$Footer } from '../chunks/Footer_BZNPgTpS.mjs';
+import { $ as $$Tag } from '../chunks/Tag_BvAfib5F.mjs';
+import { g as getUniqueTags } from '../chunks/getUniqueTags_DBxu0GdV.mjs';
+import { S as SITE } from '../chunks/config_f57_clwN.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
@@ -15,7 +15,7 @@ const $$Index = createComponent(async ($$result, $$props, $$slots) => {
 }, "D:/01_\u5DE5\u4F5C\u9879\u76EE/Git\u9879\u76EE/JiaoHuaSong-magazine/src/pages/tags/index.astro", void 0);
 
 const $$file = "D:/01_工作项目/Git项目/JiaoHuaSong-magazine/src/pages/tags/index.astro";
-const $$url = "/tags";
+const $$url = "/tags.html";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   __proto__: null,

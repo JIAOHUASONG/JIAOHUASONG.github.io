@@ -1,14 +1,14 @@
 import { b as createAstro, c as createComponent, m as maybeRenderHead, e as addAttribute, r as renderComponent, a as renderTemplate, f as renderScript, g as renderTransition } from '../../chunks/astro/server_DgUwLs34.mjs';
 import 'piccolore';
-import { r as renderEntry, g as getCollection } from '../../chunks/_astro_content_n3_I4Cv7.mjs';
-import { d as createSvgComponent, S as SHARE_LINKS, b as $$LinkButton, $ as $$Layout, a as $$Header, c as $$Footer } from '../../chunks/Footer_DDNCrdRH.mjs';
-import { $ as $$Tag } from '../../chunks/Tag_CQRtM79T.mjs';
-import { $ as $$Datetime } from '../../chunks/Datetime_CO9EwRmf.mjs';
-import { S as SITE } from '../../chunks/config_BsBIztAW.mjs';
-import { g as getPath } from '../../chunks/getPath_iIu8_-Ps.mjs';
+import { r as renderEntry, g as getCollection } from '../../chunks/_astro_content_DgyK90qT.mjs';
+import { d as createSvgComponent, S as SHARE_LINKS, b as $$LinkButton, $ as $$Layout, a as $$Header, c as $$Footer } from '../../chunks/Footer_BZNPgTpS.mjs';
+import { $ as $$Tag } from '../../chunks/Tag_BvAfib5F.mjs';
+import { $ as $$Datetime } from '../../chunks/Datetime_DS7_mSRc.mjs';
+import { S as SITE } from '../../chunks/config_f57_clwN.mjs';
+import { g as getPath } from '../../chunks/getPath_DT_Banwd.mjs';
 import { s as slugifyStr } from '../../chunks/slugify_BANPlBp3.mjs';
 /* empty css                                    */
-import { g as getSortedPosts } from '../../chunks/getSortedPosts_DyZIVjBa.mjs';
+import { g as getSortedPosts } from '../../chunks/getSortedPosts_CC66wOYg.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const IconEdit = createSvgComponent({"meta":{"src":"/_astro/IconEdit.C9zdzJLB.svg","width":24,"height":24,"format":"svg"},"attributes":{"width":"24","height":"24","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","stroke-width":"2","stroke-linecap":"round","stroke-linejoin":"round","class":"icon icon-tabler icons-tabler-outline icon-tabler-edit"},"children":"<path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\" /><path d=\"M7 7h-1a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-1\" /><path d=\"M20.385 6.585a2.1 2.1 0 0 0 -2.97 -2.97l-8.415 8.385v3h3l8.385 -8.415z\" /><path d=\"M16 5l3 3\" />"});
@@ -136,7 +136,7 @@ const $$Index = createComponent(async ($$result, $$props, $$slots) => {
 }, "D:/01_\u5DE5\u4F5C\u9879\u76EE/Git\u9879\u76EE/JiaoHuaSong-magazine/src/pages/posts/[...slug]/index.astro", void 0);
 
 const $$file = "D:/01_工作项目/Git项目/JiaoHuaSong-magazine/src/pages/posts/[...slug]/index.astro";
-const $$url = "/posts/[...slug]";
+const $$url = "/posts/[...slug].html";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   __proto__: null,
